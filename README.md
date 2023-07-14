@@ -40,8 +40,8 @@ In the above we can see that there are different files presented, here we have a
 this file contains controllers such as /(home page controller),adddata, deletedata and server listen creation.
 adddata controller is used to receive form data and insert the data into the database.
 deletedata controller is used to delete one or more tasks by using unique ID which is automatically assigned for each object. 
-##😉😅😃
-![ToDoList](https://github.com/Divya6265/To-Do-List-Project/assets/87583059/13c33b0b-c36a-41e9-bea1-aa748b41243f)
+ ##😉😅😃
+ ![ToDoList](https://github.com/Divya6265/To-Do-List-Project/assets/87583059/13c33b0b-c36a-41e9-bea1-aa748b41243f)
 
  
 
